@@ -1,0 +1,11 @@
+D:\Nguyet_SQL\github\QuanLyCuaHangGiayDep\bin\Debug\QuanLyCuaHangGiayDep.exe
+D:\Nguyet_SQL\github\QuanLyCuaHangGiayDep\bin\Debug\QuanLyCuaHangGiayDep.pdb
+D:\Nguyet_SQL\github\QuanLyCuaHangGiayDep\obj\Debug\QuanLyCuaHangGiayDep.csprojAssemblyReference.cache
+D:\Nguyet_SQL\github\QuanLyCuaHangGiayDep\obj\Debug\QuanLyCuaHangGiayDep.Properties.Resources.resources
+D:\Nguyet_SQL\github\QuanLyCuaHangGiayDep\obj\Debug\QuanLyCuaHangGiayDep.csproj.GenerateResource.cache
+D:\Nguyet_SQL\github\QuanLyCuaHangGiayDep\obj\Debug\QuanLyCuaHangGiayDep.exe
+D:\Nguyet_SQL\github\QuanLyCuaHangGiayDep\obj\Debug\QuanLyCuaHangGiayDep.pdb
+D:\Nguyet_SQL\github\QuanLyCuaHangGiayDep\obj\Debug\QuanLyCuaHangGiayDep.FrmChiTietHDN.resources
+D:\Nguyet_SQL\github\QuanLyCuaHangGiayDep\obj\Debug\QuanLyCuaHangGiayDep.csproj.ResolveComReference.cache
+D:\Nguyet_SQL\github\QuanLyCuaHangGiayDep\obj\Debug\QuanLyCuaHangGiayDep.Form1.resources
+D:\Nguyet_SQL\github\QuanLyCuaHangGiayDep\obj\Debug\QuanLyCuaHangGiayDep.FrmHoaDonNhap.resources
