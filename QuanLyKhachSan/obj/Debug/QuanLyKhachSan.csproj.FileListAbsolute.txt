@@ -1,0 +1,8 @@
+D:\Nguyet_SQL\github\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Nguyet_SQL\github\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Nguyet_SQL\github\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\Nguyet_SQL\github\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FrmPhong.resources
+D:\Nguyet_SQL\github\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Nguyet_SQL\github\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Nguyet_SQL\github\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Nguyet_SQL\github\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
